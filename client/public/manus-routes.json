@@ -1,0 +1,7 @@
+{
+  "routes": [
+    { "path": "/", "title": "Open Play Queue dashboard" },
+    { "path": "/s/:token", "title": "Shared open-play session" },
+    { "path": "/player", "title": "Player account hub" }
+  ]
+}
